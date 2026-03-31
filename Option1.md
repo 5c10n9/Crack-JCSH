@@ -4,7 +4,7 @@ Warning here.Think twice before you do that.
 
 Your saved pictures will lost forever,and you can't get them back.
 
-If you still want to do that,here are the guides.
+If you still want to do that,here are the guides.You need to download the full version package if you don't have update package.
 
 OK,you're now on github,so I think you know how to get your tablet into Recovery mode.Just use the update package for your tablet.I prefer OTG upgrade here.
 
