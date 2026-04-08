@@ -7,3 +7,7 @@ Here are the things you need.
 
 If you're using Huawei tablet,and you don't afraid of teacher,then you can use option1.
 Or you can use option2 which is use another tablet and download the software pack to hide.
+
+**WARNING**
+**THE C30 PACKAGE UPGRADED IN 2026.4.7 
+THE CURRENT VERSION IS ABONDONED**
